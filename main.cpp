@@ -2,6 +2,8 @@
 #include <string>
 #include <cmath>
 using namespace std;
+// I use "std::" as practice in my code even though I am "using namespace std".
+
 // Integration Project in C++
 // Knowledge in C++: Under a Week
 // Took my Integration Project from Python and brought it over to C++
@@ -14,7 +16,7 @@ using namespace std;
 
     // See if my code can be cleaned up at all.
       // Are there any glaring errors I am already making??
-      // Could I be doing anything for QOA improvements.
+      // Could I be doing anything for QOA improvements?
 
 void initial_greeting() {
     std::cout << "Hello! Welcome to Marty's Magical Carnival!\n";
