@@ -16,7 +16,7 @@ using namespace std;
 
     // See if my code can be cleaned up at all.
       // Are there any glaring errors I am already making??
-      // Could I be doing anything for QOA improvements?
+      // Could I be doing anything for QOL improvements?
 
 void initial_greeting() {
     std::cout << "Hello! Welcome to Marty's Magical Carnival!\n";
